@@ -35,3 +35,6 @@ Modelleri yarıştırmak ve grafikleri üretmek için kodu çalıştırın:
 
 Bash
 python main.py
+
+📈 Çıktılar
+Kod çalıştırıldıktan sonra kök dizinde results_federated/ adında bir klasör oluşur. Bu klasörün içerisinde her modele ait ROC eğrisi grafiği ve fold bazlı başarı metriklerini içeren Excel dosyaları yer almaktadır.
